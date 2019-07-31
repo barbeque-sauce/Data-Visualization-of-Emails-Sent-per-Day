@@ -1,4 +1,4 @@
-# Data-Visualization-of-Emails-Sent-per-Day
+# Data Visualization of Emails Sent by Day
 A project to scan a text file for emails by day; categorize them and visualize the results.
 Matplotlib is used for visualization.
 
